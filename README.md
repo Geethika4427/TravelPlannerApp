@@ -6,10 +6,15 @@ ExploreEase is a comprehensive travel planning application designed to simplify 
 Key Features
 ------------
 1.User Authentication: Secure login and registration using JWT authentication for enhanced security.
+
 2.Itinerary Management: Users can add, edit, and delete travel plans effortlessly.
+
 3.Booking System: Search and book flights, hotels, holiday packages, and trains directly within the app.
+
 4.Budget Management: Track expenses by category, compare estimated and actual costs, and view summaries with remaining budget calculations.
+
 5.Notifications: Stay updated with real-time alerts for weather, flight changes, and activity updates.
+
 6.Custom Payment System: A simple card-based payment system to process transactions securely without third-party gateways.
 
 Technologies Used
