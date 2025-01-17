@@ -20,6 +20,9 @@ Key Features
 Technologies Used
 -----------------
 Frontend: React.js, CSS
+
 Backend: Spring Boot, JWT Authentication
+
 Database: MySQL
+
 Version Control: Git, GitHub
